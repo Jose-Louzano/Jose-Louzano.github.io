@@ -1,2 +1,10 @@
-.centering{text-align:center;}
-.big-font{font-size:50px;
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+.centering{
+  text-align:center;
+}
+
+.big-font{
+  font-family: 'Lobster', cursive;
+  font-size:50px;
+}
